@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://i.pinimg.com/736x/ff/2a/18/ff2a1862948d49785dfd3700d56a6cec.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.last-text{
+    width: 100%;
+    text-align: center;
+    padding: 25px 0;
+    background: rgba(2, 51, 56, 0.537);
+    font-weight: 300;
+    margin-top: 100px;
+  }
+  .logo{
+    height: 70px;
+    width: 70px;
+   border: none;
+   outline: none;
+  
+}

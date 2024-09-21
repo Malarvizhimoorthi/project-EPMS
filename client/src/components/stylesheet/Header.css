@@ -1,0 +1,21 @@
+.nav-linkk {
+    font-weight: 600;
+    font-size: 30px;
+    margin: 3px 50px;
+    text-decoration: none;
+    color: rgb(7, 4, 34);
+}
+
+.nav-link {
+    font-weight: 600;
+    font-size: 18px;
+    margin: 3px 10px;
+    color: rgb(7, 4, 34);
+}
+
+.carosal {
+    height: 750px;
+    width: 85%;
+    margin: 0px -2px 0px;
+
+}
